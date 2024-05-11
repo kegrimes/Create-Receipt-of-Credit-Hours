@@ -12,7 +12,7 @@ This is the final project for COP3330, Object Oriented Programming.
  6- Print the information of a staff member  
  7- Exit Program  
 
- The user will keep adding/printing faculty members, staff members, and students until they choose to exit the program. They will then be asked if they want to print an invoice. If they choose to do so, the results will be outputed in a text file called _"report.txt"_. 
+ The user will keep adding/printing faculty members, staff members, and students until they choose to exit the program. They will then be asked if they want to print an invoice. If they choose to do so, the results will be outputed in a text file called _"report.txt"_ (can be found in project2 or src folders). 
 
 ## Helpful Hints:
  - Ranks: "professor" or "adjunct"
