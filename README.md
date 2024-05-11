@@ -1,4 +1,4 @@
-# Create-Receipt-of-Credit-Hours
+# **Create-Receipt-of-Credit-Hours**
 
 ## This is the final project for COP3330, Object Oriented Programming.
 
