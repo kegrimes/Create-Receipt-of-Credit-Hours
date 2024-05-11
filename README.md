@@ -20,8 +20,8 @@ This is the final project for COP3330, Object Oriented Programming.
 
 ## Commands:
 ```
- javac Project2.java \\compile
- java p2.Project2 \\run - make sure to run "cd .." before running this command
+ javac Project2.java //compile
+ java p2.Project2 //run - make sure to run "cd .." before running this command
 ```
 
 ### _Project.java_ file can be found using this path...  
