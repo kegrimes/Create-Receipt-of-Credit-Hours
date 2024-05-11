@@ -1,6 +1,6 @@
 # **Create-Receipt-of-Credit-Hours**
 
-## This is the final project for COP3330, Object Oriented Programming.
+This is the final project for COP3330, Object Oriented Programming.
 
 ## Project Functionality:
  A user will be asked to make a selection from a list of 7 options...  
