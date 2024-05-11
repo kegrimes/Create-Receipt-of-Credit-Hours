@@ -1,0 +1,29 @@
+		Report created on 11/26/2022
+	    ********************************
+
+Faculty Members
+*********************
+	1. katelyn 
+	ID: ka8888
+	professor, engineering
+
+
+Staff Members
+*********************
+	1. thomas
+	ID: th9999
+	mathematics, Part Time
+
+
+Students (Sorted by credit hours)
+*********************
+	1. andrea
+	ID: an5555
+	Gpa: 3.70
+	Credit Hours: 5
+
+	2. ella
+	ID: el7777
+	Gpa: 4.00
+	Credit Hours: 3
+

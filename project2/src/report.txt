@@ -1,0 +1,18 @@
+		Report created on 05/10/2024
+	    ********************************
+
+Faculty Members
+*********************
+
+
+Staff Members
+*********************
+
+
+Students (Sorted by gpa)
+*********************
+	1. katelyn
+	ID: ka8888
+	Gpa: 4.00
+	Credit Hours: 8
+
