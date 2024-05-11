@@ -23,3 +23,6 @@ This is the final project for COP3330, Object Oriented Programming.
  javac Project2.java \\compile
  java p2.Project2 \\run - make sure to run "cd .." before running this command
 ```
+
+# The Project.java file can be found in this path...  
+`project2\src\p2`
