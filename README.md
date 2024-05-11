@@ -24,5 +24,8 @@ This is the final project for COP3330, Object Oriented Programming.
  java p2.Project2 //run - make sure to run "cd .." before running this command
 ```
 
+### Output:
+In the terminal, each selection will be printed to the screen along with any option to print out information on a specific group.
+
 ### _Project.java_ file can be found using this path...  
 `project2\src\p2`
