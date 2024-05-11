@@ -19,7 +19,7 @@
  - Department: "engineering", "mathematics", or "sciences"
 
 ## Commands:
-'''
+```
  javac Project2.java \\compile
  java p2.Project2 \\run - make sure to run "cd .." before running this command
-'''
+```
