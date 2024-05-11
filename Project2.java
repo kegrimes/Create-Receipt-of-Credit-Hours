@@ -1,5 +1,5 @@
 // Katelyn Grimes
-// COP 3330
+// COP 3330: Object Oriented Programming
 // November 27, 2022
 
 package p2;
